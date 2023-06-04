@@ -1,0 +1,28 @@
+.react-tel-input .form-control {
+  width: 100% !important;
+  height: 38px !important;
+}
+
+.radio-label {
+  margin-right: 30px;
+}
+
+.radio-button {
+  margin-right: 10px;
+}
+
+.error-message {
+  color: red;
+  font-size: 12px;
+  margin-top: 5px;
+}
+
+.has-error .form-control {
+  border-color: red;
+}
+
+span {
+  font-size: 80%;
+  padding: 3px;
+  color: red;
+}

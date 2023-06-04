@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7vaRUurRcXBS+lyCMd7zdZjHN0zl2ZEF4qNoc+iknOk=",
+  "Source": "return-trip-checklist",
+  "BasePath": "_content/return-trip-checklist",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
