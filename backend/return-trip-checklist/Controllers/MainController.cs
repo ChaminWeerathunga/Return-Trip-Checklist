@@ -198,9 +198,9 @@ namespace return_trip_checklist.Controllers
                 EnableSsl = true
             };
 
-            var recipients = "VKhatri@centra.ca, mxu@centra.ca"; // Add multiple recipients here
+            var recipients = "VKhatri@centra.ca, mxu@centra.ca";
 
-            var message = new MailMessage("testdev1995@outlook.com", recipients) // Update the recipient email addresses
+            var message = new MailMessage("testdev1995@outlook.com", recipients)
             {
                 Subject = "W/O# " + WoNumber + " - Return Trip Checklist",
                 Body = "Thank you for submitting the form. Attached is the PDF.",
